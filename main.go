@@ -1,6 +1,6 @@
 package main
 
-import "fast-text-search/cmd"
+import "github.com/Sidddddarth/fast-text-search/cmd"
 
 func main() {
 	cmd.Execute()
