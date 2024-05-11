@@ -1,7 +1,7 @@
 package cmd
 
 import (
-	"fast-test-search/fts"
+	"fast-text-search/fts"
 	"fmt"
 	"os"
 
